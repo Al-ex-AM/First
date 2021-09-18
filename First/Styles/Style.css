@@ -1,0 +1,38 @@
+html {
+    font-size: 110%;
+    font-family: 'Lobster', cursive;
+    background-color: #5e2f62;
+}
+
+body {
+    width: 65%;
+    margin: 0 auto;
+    background-color: #ccafc6;
+    padding: 1em;
+    border: 10px solid #6c1f55;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+}
+
+h1 {
+    color: #5e2f62;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 3px #8a6899;
+}
+
+h2 {
+    color: #8a6899;
+    text-align: center;
+}
+
+p {
+    color: #5e2f62;
+    text-align: center;
+}
